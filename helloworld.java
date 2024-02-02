@@ -9,6 +9,6 @@ class helloworld
     {
         System.out.println("Hello, World !! ");
      
-        System.out.println("Jenkins Lab2");
+        System.out.println("Jenkins Lab2 successful.");
     }
 }
